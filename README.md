@@ -52,24 +52,6 @@ class FTGAMERV2:
 > **CyberOSINT** 🔍 — 21-module OSINT toolkit for Termux. Track IPs, search usernames, analyze domains, extract metadata, check breaches. No API keys needed.  
 > ⭐ **10** · 🍴 **3 forks** · 🐍 **Python**
 
-<br/>
-
-### 📦 Other Projects
-
-<br/>
-
-<a href="https://github.com/ftgamer2/Ai-Voice-Assistant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ftgamer2&repo=Ai-Voice-Assistant&theme=radical&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/ftgamer2/ASCII-VIDEO-PLAYER">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ftgamer2&repo=ASCII-VIDEO-PLAYER&theme=radical&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/ftgamer2/cyberstalker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ftgamer2&repo=cyberstalker&theme=radical&hide_border=true&bg_color=0d1117" />
-</a>
-
-<br/><br/>
-
 ---
 
 ### 🛠️ Tech Stack
@@ -78,12 +60,17 @@ class FTGAMERV2:
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF7F)
 ![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=7B2FBE)
+![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Render](https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=46E3B7)
+![Railway](https://img.shields.io/badge/Railway-0d1117?style=for-the-badge&logo=railway&logoColor=0B0D0E)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2671E5)
 ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
+![UI](https://img.shields.io/badge/UI-0d1117?style=for-the-badge&logo=materialdesign&logoColor=7B2FBE)
+![UX](https://img.shields.io/badge/UX-0d1117?style=for-the-badge&logo=materialdesignicons&logoColor=00FF7F)
 
 <br/><br/>
 
