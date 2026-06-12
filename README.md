@@ -86,11 +86,11 @@ class FTGAMERV2:
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 GitHub Contributor Stats
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ftgamer2&theme=onedark&column=7&no-frame=true&no-bg=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ftgamer2&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&hide_border=true&bg_color=0d1117" width="100%"/>
 
 <br/><br/>
 
