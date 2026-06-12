@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=OSINT+Developer;Python+Tool+Builder;47+Private+Repos+Strong;Always+Learning+New+Things&font=Fira+Code&center=true&width=500&height=50&color=00FF7F&vCenter=true&pause=1000&size=22"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Devloper;OSINT+Devloper&font=Fira+Code&center=true&width=500&height=50&color=00FF7F&vCenter=true&pause=1000&size=22"/>
 
 <br/><br/>
 
