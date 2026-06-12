@@ -90,17 +90,7 @@ class FTGAMERV2:
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ftgamer2&theme=onedark&row=1&column=7&no-frame=true&no-bg=true" width="100%"/>
-
-<br/><br/>
-
----
-
-### 😂 Random Dev Meme
-
-<br/>
-
-<img src="https://random-memer.herokuapp.com/" width="400px"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ftgamer2&theme=onedark&column=7&no-frame=true&no-bg=true" width="100%"/>
 
 <br/><br/>
 
