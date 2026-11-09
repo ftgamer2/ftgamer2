@@ -1,117 +1,35 @@
-﻿<div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,100:00FF7F&height=200&section=header&text=FTGAMERV2&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%"/>
+# LYNX
 
-<br/><br/>
+**FTGAMERV2 · Developer & Tool Builder**
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Devloper;OSINT+Devloper&font=Fira+Code&center=true&width=500&height=50&color=00FF7F&vCenter=true&pause=1000&size=22"/>
+I build Python tools, OSINT-focused projects, and small web experiments.
+LYNX is my tech identity, inspired by the lynx: observant, precise, and curious.
 
-<br/><br/>
-
-```python
-class FTGAMERV2:
-    name        = "FTGAMERV2"
-    alias       = "ftgamer2"
-    craft       = ["Python", "OSINT", "Tool Building"]
-    mode        = "Building cool stuff"
-    email       = "noobgamingv40@gmail.com"
-    blog        = "ft.gamer.gd"
-
-    def greet(self):
-        return "Welcome to my profile, explore my repos!"
-```
-
-<br/>
-
----
-
-### 📊 GitHub Stats
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ftgamer2&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117"/>
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftgamer2&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ftgamer2&hide_border=true&background=0d1117&stroke=7B2FBE&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F&sideLabels=7B2FBE&dates=7B2FBE&currStreakNum=00FF7F&sideNums=7B2FBE"/>
-
-<br/><br/>
-
----
-
-### 🚀 Featured Project
-
-<br/>
-
-<a href="https://github.com/ftgamer2/CyberOsint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ftgamer2&repo=CyberOsint&theme=radical&hide_border=true&show_owner=true&bg_color=0d1117" />
-</a>
-
-> **CyberOSINT** 🔍 — 21-module OSINT toolkit for Termux. Track IPs, search usernames, analyze domains, extract metadata, check breaches. No API keys needed.  
-> ⭐ **10** · 🍴 **3 forks** · 🐍 **Python**
-
----
-
-### 🛠️ Tech Stack
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF7F)
-![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=7B2FBE)
-![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Render](https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=46E3B7)
-![Railway](https://img.shields.io/badge/Railway-0d1117?style=for-the-badge&logo=railway&logoColor=0B0D0E)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2671E5)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![UI](https://img.shields.io/badge/UI-0d1117?style=for-the-badge&logo=materialdesign&logoColor=7B2FBE)
-![UX](https://img.shields.io/badge/UX-0d1117?style=for-the-badge&logo=materialdesignicons&logoColor=00FF7F)
-
-<br/><br/>
-
----
-
-### 📈 Activity Graph
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph/?username=ftgamer2&bg_color=0d1117&color=00FF7F&line=7B2FBE&point=00FF7F&hide_border=true" width="100%"/>
-
-
-
-### 🐍 Watch My Contributions Get Eaten
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ftgamer2/ftgamer2/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ftgamer2/ftgamer2/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/ftgamer2/ftgamer2/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br/><br/>
-
----
-
-### 📬 Connect With Me
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF7F)](mailto:noobgamingv40@gmail.com)
-&nbsp;
-[![Blog](https://img.shields.io/badge/Blog-0d1117?style=for-the-badge&logo=internetexplorer&logoColor=7B2FBE)](https://ft.gamer.gd)
-
-<br/>
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ftgamer2.ftgamer2&left_color=7B2FBE&right_color=00FF7F)
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:7B2FBE&height=120&section=footer" width="100%"/>
+[Website](https://ft.gamer.gd) · [Email](mailto:noobgamingv40@gmail.com) · [Repositories](https://github.com/ftgamer2?tab=repositories)
 
 </div>
+
+---
+
+## Selected work
+
+- **[CyberOsint](https://github.com/ftgamer2/CyberOsint)** — Cross-platform Python OSINT toolkit with 40+ modules for public-source research on Windows, Linux, and Android/Termux.
+- **[cyberstalker](https://github.com/ftgamer2/cyberstalker)** — Termux-focused Instagram OSINT tool with multi-source lookup, metadata extraction, and mobile-friendly HTML reports for authorized security research.
+- **[AI Voice Assistant](https://github.com/ftgamer2/Ai-Voice-Assistant)** — Hinglish-capable voice assistant with speech input/output, conversation memory, file uploads, and a [live demo](https://ftgamer2.github.io/Ai-Voice-Assistant/).
+- **[ASCII Video Player](https://github.com/ftgamer2/ASCII-VIDEO-PLAYER)** — Python tool for real-time ASCII video playback in an Android/Termux terminal.
+
+## Toolkit
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Project environments documented:** Windows · Linux · Android/Termux · GitHub Pages
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ftgamer2&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=8AB4F8&text_color=C9D1D9&icon_color=8AB4F8" alt="GitHub statistics for ftgamer2" />
+</p>
+
+GitHub's native contribution history is available on the profile below this README.
