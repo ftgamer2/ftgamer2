@@ -28,8 +28,4 @@ LYNX is my tech identity, inspired by the lynx: observant, precise, and curious.
 
 ## GitHub activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ftgamer2&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=8AB4F8&text_color=C9D1D9&icon_color=8AB4F8" alt="GitHub statistics for ftgamer2" />
-</p>
-
-GitHub's native contribution history is available on the profile below this README.
+GitHub's native contribution graph appears below this README.
